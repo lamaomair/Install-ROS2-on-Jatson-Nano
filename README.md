@@ -1,4 +1,4 @@
-# Install-ROS2-on-Jatson-Nano
+# Install-ROS2-on-Jetson-Nano
 ## This repository represent the steps to install (ROS2) into Jetson nano
 
 
